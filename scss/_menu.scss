@@ -92,6 +92,8 @@
       height: 250px;
       background: url("../img/portrait_small.jpg");
       border-radius: 50%;
+      background-position: center;
+      background-size: 100%;
       border: solid 3px $secondary-color;
     }
   }
